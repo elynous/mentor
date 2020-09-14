@@ -34,6 +34,7 @@ Mentor is an Education platform, in this project we will try to implement the ba
 
 ## Technology Stack
 
+---------------|----------------
 **React**      |    **Node** 
 **Express**    |    **MongoDB**
 **Three Js**   |    **Anime Js**
