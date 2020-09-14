@@ -18,8 +18,6 @@ Mentor is an Education platform, in this project we will try to implement the ba
 * We will teach you to *deploy* the web application on **Heroku and Netlify**.
 * We will try to use the **webpack and babel** for the *build* of our web application.
 
-:point_down::point_down::point_down:
-
 ## What you will learn ?
 
  * You will learn all the new technologies, which are currently high in demand in market. 
