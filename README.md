@@ -34,13 +34,14 @@ Mentor is an Education platform, in this project we will try to implement the ba
 
 ## Technology Stack
 
----------------|----------------
-**React**      |    **Node** 
-**Express**    |    **MongoDB**
-**Three Js**   |    **Anime Js**
-**Sass**       |    **Material UI**
-**Bootstrap**  |    **MongoDB Atlas**
-**Mongoose**   |    **FlexBox**
-**Redux**      |    **Heroku** 
-**Netlify**    |    **Firbase**
-**Webpack**    |    **Babel**
+Technology List  | Technology List
+-----------------|----------------
+**React** | **Node** 
+**Express** | **MongoDB**
+**Three Js** | **Anime Js**
+**Sass** | **Material UI**
+**Bootstrap** | **MongoDB Atlas**
+**Mongoose** | **FlexBox**
+**Redux** | **Heroku** 
+**Netlify** | **Firbase**
+**Webpack** | **Babel**
