@@ -15,8 +15,7 @@ Mentor is an Education platform, in this project we will try to implement the ba
 * We will implements different *Css preprocessors* like **Sass** and also libraries like **Bootstrap, Material UI**
 * If possible we will use the *state management* library like **Redux**.
 * If time permits we will also work on *Mobile development* using the **React-Native** which is trending right now.
-* We will teach you to *deploy* the web application on **Heroku and Netlify**.
-* We will try to use the **webpack and babel** for the *build* of our web application.
+* We will try to use the **webpack and babel** for the *build* of our website and teach to *deploy* the website on **Heroku and Netlify**.
 
 ## What you will learn ?
 
