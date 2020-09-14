@@ -36,11 +36,11 @@ Mentor is an Education platform, in this project we will try to implement the ba
 **Tech List :blue_book::notebook:**  | **Tech List :blue_book::notebook:**
 -----------------|----------------
 React | Node 
-**Express** | **MongoDB**
-**Three Js** | **Anime Js**
-**Sass** | **Material UI**
-**Bootstrap** | **MongoDB Atlas**
-**Mongoose** | **FlexBox**
-**Redux** | **Heroku** 
-**Netlify** | **Firbase**
-**Webpack** | **Babel**
+Express | MongoDB
+Three Js | Anime Js
+Sass | Material UI
+Bootstrap | MongoDB Atlas
+Mongoose | FlexBox
+Redux | Heroku 
+Netlify | Firbase
+Webpack | Babel
