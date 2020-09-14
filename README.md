@@ -30,11 +30,10 @@ Mentor is an Education platform, in this project we will try to implement the ba
  * You will learn to deploy the webistes on heroku and netlify.
  * At last, not-the-least you will learn Redux and React-Native. 
 
-:point_down::point_down::point_down:
 
 ## Technology Stack
 
-:point_down::point_down::point_down:  | :point_down::point_down::point_down:
+List :blue_book::notebook:  | List :blue_book::notebook:
 -----------------|----------------
 **React** | **Node** 
 **Express** | **MongoDB**
