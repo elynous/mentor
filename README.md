@@ -33,7 +33,7 @@ Mentor is an Education platform, in this project we will try to implement the ba
 
 ## Technology Stack
 
-List :blue_book::notebook:  | List :blue_book::notebook:
+**Tech List :blue_book::notebook:**  | **Tech List :blue_book::notebook:**
 -----------------|----------------
 **React** | **Node** 
 **Express** | **MongoDB**
