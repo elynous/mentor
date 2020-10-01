@@ -6,6 +6,7 @@
  - Time Management and allocation
  - Admin panel dashboard & analytics
  - Student & Educator Profile
+ - Peer To Peer Sketch Board
 
 
 ## Tech-stack
