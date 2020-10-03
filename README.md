@@ -30,7 +30,7 @@ Open http://localhost:3000 to view it in browser.
 
 ## Details for Mentor
 
-Mentor is an Education platform, in this project we will try to implement the basic functions of videocall and chat platform. We will also implement the designing part and try to create a wonderfull UI/UX designs. There are always many things to learn from a project. Our project helps you to grow overall in the field of Full-stack Development. As we all know their is always demand of Full-stack Developer in this recent time as we all are working remotely and we are connected with all this different technologies, which we are using for building this website. In this website we will try to teach you every things which are possible by us and guide you to become a Full-stack developer. We will also try some cool technologies for animating our website.
+Mentor is an Education Platform, in this project we will try to implement the basic functions of videocall and chat platform. We will also implement the designing part and try to create a Wonderfull UI/UX designs. There are always many things to learn from a Project. Our Project helps you to grow overall in the field of Full-stack Development. As we all know their is always demand of Full-stack Developer in this recent time as we all are working remotely and we are connected with all this different technologies, which we are using for building this website. In this website we will try to teach you every things which are possible by us and guide you to become a Full-stack developer. We will also try some cool technologies for animating our website.
 
 * Apart from this we will implement the cloud computing and also guide you in the direction of cloud computing.
 
