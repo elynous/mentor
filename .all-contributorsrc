@@ -1,0 +1,24 @@
+{
+  "files": [
+    "README.md"
+  ],
+  "imageSize": 100,
+  "commit": false,
+  "contributors": [
+    {
+      "login": "jpalacio0612",
+      "name": "Jonathan ",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/65427911?v=4",
+      "profile": "https://github.com/jpalacio0612",
+      "contributions": [
+        "code"
+      ]
+    }
+  ],
+  "contributorsPerLine": 7,
+  "projectName": "mentor",
+  "projectOwner": "elynous",
+  "repoType": "github",
+  "repoHost": "https://github.com",
+  "skipCi": true
+}
