@@ -30,6 +30,16 @@
 
 .header__menu ul li {
   margin-right: 50px;
+  cursor: pointer;
+}
+
+.header__menu ul li:hover {
+  text-decoration: underline;
+}
+
+.header__menu ul li a {
+  text-decoration: none;
+  color: black;
 }
 
 .header__menu ul button {
@@ -40,6 +50,12 @@
   border: solid 2px #64b6fc;
   border-radius: 10px;
   background-color: white;
+  outline: none;
+}
+
+.header__menu ul button a {
+  text-decoration: none;
+  color: black;
 }
 
 .header__menu ul button:hover {

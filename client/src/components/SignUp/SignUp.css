@@ -1,0 +1,88 @@
+.signup {
+  display: flex;
+}
+
+.signup__image {
+  padding: 30px;
+  width: 55%;
+}
+
+.signup__image img {
+  max-width: 100%;
+}
+
+.signup__form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+  justify-content: center;
+  width: 45%;
+}
+
+.signup__form form {
+  display: flex;
+  flex-direction: column;
+  align-items: center;
+}
+
+.signup__form form input {
+  height: 45px;
+  width: 300px;
+  box-shadow: 0px 5px 5px 0px rgba(171, 215, 253, 0.75);
+  border: 1px solid #abd7fd;
+  margin-top: 20px;
+  border-radius: 20px;
+  outline: none;
+  text-align: center;
+}
+
+::placeholder {
+  padding: 5px;
+  text-align: center;
+  font-weight: 600;
+  font-family: "Poppins", sans-serif;
+}
+
+.signup__form form button {
+  margin-top: 20px;
+  height: 45px;
+  width: 150px;
+  background-color: transparent;
+  border: 2px solid #abd7fd;
+  border-radius: 20px;
+  cursor: pointer;
+  font-weight: 800;
+  font-family: "Poppins", sans-serif;
+}
+
+.signup__form form button:hover {
+  background-color: #abd7fd;
+}
+
+.signup__social {
+  display: flex;
+  width: 100%;
+  justify-content: space-around;
+}
+
+.signup__social span {
+  display: flex;
+  justify-content: space-evenly;
+  align-items: center;
+  margin-top: 20px;
+  height: 45px;
+  width: 200px;
+  background-color: transparent;
+  border: 2px solid #abd7fd;
+  border-radius: 20px;
+  cursor: pointer;
+  color: #75757a;
+}
+
+.signup__social span:hover {
+  background-color: #abd7fd;
+}
+
+.signup__social span img {
+  width: 40px;
+}
