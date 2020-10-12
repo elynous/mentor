@@ -1,5 +1,6 @@
 import React from "react";
 import "./Header.css";
+import { Link } from 'react-router-dom';
 
 export const Header = () => {
   return (
@@ -11,7 +12,7 @@ export const Header = () => {
           <li>About Us</li>
         </ul>
         <ul>
-          <li>Login</li>
+          <li><Link to="../Login">Login</Link></li>
           <button>Get Started</button>
         </ul>
       </div>
