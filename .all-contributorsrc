@@ -13,6 +13,33 @@
       "contributions": [
         "code"
       ]
+    },
+    {
+      "login": "samrat1223",
+      "name": "Samrat Ganguly",
+      "avatar_url": "https://avatars2.githubusercontent.com/u/60837980?v=4",
+      "profile": "https://github.com/samrat1223",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "the-supernova",
+      "name": "Abhijit Biswal",
+      "avatar_url": "https://avatars3.githubusercontent.com/u/56555259?v=4",
+      "profile": "https://github.com/the-supernova",
+      "contributions": [
+        "code"
+      ]
+    },
+    {
+      "login": "AbhishekKalavadiya",
+      "name": "Abhishek Kalavadiya",
+      "avatar_url": "https://avatars1.githubusercontent.com/u/51313689?v=4",
+      "profile": "https://github.com/AbhishekKalavadiya",
+      "contributions": [
+        "code"
+      ]
     }
   ],
   "contributorsPerLine": 7,
